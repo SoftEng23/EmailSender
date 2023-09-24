@@ -8,3 +8,4 @@ This is what the result of running your code should look like:
 You can create a JUnit test like this:
 <img width="1280" alt="JUnitTestComplete" src="https://github.com/SoftEng23/EmailSender/assets/99214724/7921c412-fd29-44ad-b07e-abb560ce287e">
 Check the POM for the dependencies included. You will need to add Java Mail Sender when creating the Maven project on https://start.spring.io/
+You can refer to this tutorial for assistance: https://www.youtube.com/watch?v=ugIUObNHZdo&t
